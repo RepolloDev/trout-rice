@@ -38,6 +38,6 @@
 
 <img src="./.github/assets/dish.png" width="200" align="left" style="margin-right: 16px"/>
 
-Quería algo genérico como `Library Mangement` o usar una abreviación como `ULM` de *University Library Management*, pero era muy común y me quedé pensando un nombre 😔.
+Quería algo genérico como `Library Mangement` o usar una abreviación como `ULM` de _University Library Management_, pero era muy común y me quedé pensando un nombre 😔.
 
-Antes de crear el proyecto, me comí una trucha frita 🐟 con un plato de arroz 🍚, además de unos *ispis* para acompañar. Entonces, se me hizo gracioso tener un proyecto con el nombre de lo que comí, no tiene sentido, pero quería recordar aquel plato, que con limón sabe más rico 😋.
+Antes de crear el proyecto, me comí una trucha frita 🐟 con un plato de arroz 🍚, además de unos _ispis_ para acompañar. Entonces, se me hizo gracioso tener un proyecto con el nombre de lo que comí, no tiene sentido, pero quería recordar aquel plato, que con limón sabe más rico 😋.
