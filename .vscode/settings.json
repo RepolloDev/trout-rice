@@ -1,0 +1,15 @@
+{
+  "markdown.validate.enabled": true,
+  "conventionalCommits.emojiFormat": "emoji",
+  "conventionalCommits.autoCommit": false,
+  "conventionalCommits.scopes": [
+    // documentation scoopes
+    "requirements",
+    "models",
+    "diagrams",
+    // configuration scopes
+    "git",
+    "github",
+    "vscode"
+  ]
+}
