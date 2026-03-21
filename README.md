@@ -6,23 +6,13 @@
 <!-- Title -->
 <h1 align="center">Trout & Rice</h1>
 
-<!-- Stack -->
+<!-- Images -->
 <p align="center">
-    <a href="https://astro.build/">
-        <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white"/>
-    </a>
-    <a href="https://elysiajs.com/">
-        <img src="https://img.shields.io/badge/elysia-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
-    </a>
-    <a href="https://orm.drizzle.team/">
-        <img src="https://img.shields.io/badge/drizzle-%23C5F74F.svg?style=for-the-badge&logo=drizzle&logoColor=black"/>
-    </a>
-    <a href="https://www.postgresql.org/">
-        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    </a>
-    <a href="https://podman.io/">
-        <img src="https://img.shields.io/badge/podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white"/>
-    </a>
+    <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/er-v1-dark.png"/>
+         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/er-v1-light.png"/>
+         <img src="./docs/assets/er-v1-light.png" alt="E/R Diagram"/>
+    </picture>
 </p>
 
 <!-- Description -->
@@ -30,9 +20,9 @@
 `Trout & Rice` es un **proyecto web** para la **administración de una biblioteca universitaria**. Tiene un uso genérico para cualquier biblioteca, pero el proyecto está enfocado a la carrera de informática.
 
 > [!IMPORTANT]
-> 🚧 El proyecto está en desarrollo, todo el proceso y documentación
-> se encuentra en `docs`, mientras que los documentos de referencia
-> o borradores en `docs/draft`.
+> 🚧 La versión `v1` del proyecto solo especifica el problema, requerimientos
+> y modelos de datos, nada de implementación, todo se encuentra
+> en el directorio [`docs/v1/`](./docs/v1/).
 
 ## 🏷️ Nombre?
 
