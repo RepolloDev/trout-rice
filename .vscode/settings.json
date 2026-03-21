@@ -7,6 +7,7 @@
     "requirements",
     "models",
     "diagrams",
+    "organization",
     // configuration scopes
     "git",
     "github",
